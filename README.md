@@ -1,13 +1,14 @@
 <div align="center">
 <h1 align="center">欢迎来到我们的渺茫游戏 👋</h1>
-渺茫游戏的Windows32位版本
+渺茫游戏的Windows64位版本
 
 当前用于山东省软件设计大赛初审，此游戏暂未开源，如有需要请加QQ交流群：415235597
 
 游戏类型：2D 横版 闯关 冒险
 
-渺茫游戏官网：www.ymjk.online
+渺茫游戏官网：[www.ymjk.online](http://www.ymjk.online/)
 
+欢迎进入官网了解我们的游戏
 </div>
 
 
@@ -27,7 +28,7 @@
 | 内存                                    | 4 GB RAM                                                                                                                                                                   |
 | 显卡                                    | OpenGL 3.0 compliant video card                                                                                                                                            |
 | 存储空间                                 | 需要 1300 MB 可用空间                                                                                                                                                       |
-| 附注事项                                 | The game only supports keyboards.                                                                                                                                 |
+| 附注事项                                 | The game only supports keyboards.                                                                                                                                   |
 
 ## ⌨️ 下载流程
 > 该游戏提供了简单且便利的打开方式
@@ -46,3 +47,14 @@
     
     - 步骤4：游戏就可以正常游玩啦
 
+## ⭐️ 其他下载方式
+>当然也有许多国内的git小白朋友们不懂得如何下载git且使用，这边我们也提供了国内下载方式
+
+1.百度网盘
+  ```shell
+      [https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234](https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234)
+   ```
+2.官网下载游戏
+   ```shell
+       http://www.ymjk.online/XiaZai.html
+   ```
