@@ -1,4 +1,4 @@
-# MiaoMang32
+# MiaoMang.32
 渺茫游戏的Windows32位版本
 
 我们的官网是：wwww.ymjk.online,欢迎进入官网了解我们的游戏
