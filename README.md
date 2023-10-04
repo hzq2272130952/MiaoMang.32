@@ -4,7 +4,7 @@
 
 <img src="主图标.png" alt="png"/>
 
-渺茫游戏的Windows64位版本
+渺茫游戏的Windows32位版本
 </div>
 
 ## 🌟 游戏介绍
@@ -41,10 +41,10 @@
 > 只需要克隆到本地点击解压后即可游玩
 1. 克隆到本地git仓库
    ```shell
-   git clone https://github.com/hzq2272130952/MiaoMang.64.git
+   git clone https://github.com/hzq2272130952/MiaoMang.32.git
    ```
 2. 安装游戏
-    - 步骤1：打开MiaoMang64.exe
+    - 步骤1：打开MiaoMang32.exe
     
     - 步骤2：进入后点击浏览将游戏放在您想要放的地方（在解压以后会自动将游戏的快捷方式放在您的桌面）
     
@@ -57,7 +57,7 @@
 
 1.百度网盘
   ```shell
-      https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234
+      https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234
    ```
 2.官网下载游戏
    ```shell
