@@ -1,15 +1,22 @@
 <div align="center">
+   
 <h1 align="center">欢迎来到我们的渺茫游戏 👋</h1>
-渺茫游戏的Windows32位版本
 
-当前用于山东省软件设计大赛初审，此游戏暂未开源，如有需要请加QQ交流群：415235597
+<img src="主图标.png" alt="png"/>
 
-游戏类型：2D 横版 闯关 冒险
-
-渺茫游戏官网：[www.ymjk.online](http://www.ymjk.online/)
-
-欢迎进入官网了解我们的游戏
+渺茫游戏的Windows64位版本
 </div>
+
+## 🌟 游戏介绍
+
+>当前用于山东省软件设计大赛初审，此游戏暂未开源，如有需要请加QQ交流群：415235597
+
+>游戏类型：2D 横版 闯关 冒险
+
+ 渺茫游戏官网：[www.ymjk.online](http://www.ymjk.online/)
+
+ 欢迎进入官网了解我们的游戏
+
 
 
 ## 🌟 简介
@@ -30,17 +37,16 @@
 | 存储空间                                 | 需要 1300 MB 可用空间                                                                                                                                                       |
 | 附注事项                                 | The game only supports keyboards.                                                                                                                                   |
 
-
 ## ⌨️ 下载流程
 > 该游戏提供了简单且便利的打开方式
 
 > 只需要克隆到本地点击解压后即可游玩
 1. 克隆到本地git仓库
    ```shell
-   git clone https://github.com/hzq2272130952/MiaoMang.32.git
+   git clone https://github.com/hzq2272130952/MiaoMang.64.git
    ```
 2. 安装游戏
-    - 步骤1：打开MiaoMang32.exe
+    - 步骤1：打开MiaoMang64.exe
     
     - 步骤2：进入后点击浏览将游戏放在您想要放的地方（在解压以后会自动将游戏的快捷方式放在您的桌面）
     
@@ -53,7 +59,7 @@
 
 1.百度网盘
   ```shell
-      https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234
+      https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234
    ```
 2.官网下载游戏
    ```shell
