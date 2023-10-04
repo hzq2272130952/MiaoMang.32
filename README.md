@@ -52,7 +52,7 @@
 
 1.百度网盘
   ```shell
-      [https://pan.baidu.com/s/1n5IyUGRiHzFIDev8HzeOiA?pwd=1234](https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234)
+      https://pan.baidu.com/s/1Tfm1XiNlcq_9-mIrlkCyXQ?pwd=1234
    ```
 2.官网下载游戏
    ```shell
